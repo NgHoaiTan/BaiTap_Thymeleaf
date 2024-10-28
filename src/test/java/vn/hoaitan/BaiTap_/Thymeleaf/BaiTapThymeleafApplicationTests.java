@@ -1,0 +1,13 @@
+package vn.hoaitan.BaiTap_.Thymeleaf;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class BaiTapThymeleafApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
